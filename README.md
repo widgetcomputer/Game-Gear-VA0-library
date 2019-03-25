@@ -8,10 +8,11 @@ Seaga Game Gear ASIC's
 
 Cart connector -PCB Side
 
-
-
 Toshiba SOP Package
 	TMPZ84c00AM - 6
+
+Hope to add more later
+
 
 Let me know of any corrections
 
