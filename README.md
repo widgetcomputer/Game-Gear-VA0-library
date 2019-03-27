@@ -1,5 +1,7 @@
 Seaga Game Gear ASIC's
 
+All current files in ZIP/RAR
+
 315-5377 --  80 pin QFP
 
 315-5378A --  100 pin QFP
